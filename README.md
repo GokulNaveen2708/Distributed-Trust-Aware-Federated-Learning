@@ -1,6 +1,6 @@
 # 🔐 Enhancing Federated Learning Security with Trust & Reputation Mechanisms
 
-Federated Learning (FL) enables decentralized model training while preserving data privacy — ideal for sectors like healthcare and finance. But what happens when untrustworthy clients poison the process?
+Federated Learning (FL) enables decentralized model training while preserving data privacy ideal for sectors like healthcare and finance. But what happens when untrustworthy clients poison the process?
 
 This project introduces a **Trust and Reputation-based approach** that extends FedAvg to dynamically **filter malicious or low-quality clients**, boosting model reliability and convergence in adversarial environments.
 
